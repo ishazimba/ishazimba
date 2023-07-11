@@ -1,6 +1,6 @@
 ### Hi, 👋 I'm Isha
 
-### 👩‍🎓 MSc.IT, University of the West of England | Software Engineering Bootcamp, Northcoders
+### 👩‍🎓 MSc.IT, UWE | Software Engineering Bootcamp, Northcoders
 
 ### 🔭 I’m currently working on my personal projects that allow me to blend my skills as a software engineer and UX designer. I'm passionate about creating user-centric experiences and building innovative solutions.
 
