@@ -1,4 +1,4 @@
-### Hi, 👋 I'm Isha
+### 👋 Hi, I'm Isha
 
 ### 👩‍🎓 MSc.IT, UWE | Software Engineering Bootcamp, Northcoders
 
