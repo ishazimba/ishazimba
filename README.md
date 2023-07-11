@@ -12,6 +12,6 @@
 
 ### 💬 Ask me about: Software development, UX design principles, and balancing both roles.
 
-### 📫 How to reach me: [Email](mailto:isha.zimba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isha-tamang/) I'm open to networking, collaboration, and discussing exciting opportunities.
+### 📫 How to reach me: [Email](mailto:isha.zimba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isha-tamang/) 
 
 ### ⚡ Fun fact: I enjoy painting and photography, infusing creativity into my user-centric design approach.
