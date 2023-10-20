@@ -1,6 +1,6 @@
-### 👋 Hi, I'm Isha
+## 👋 Hi, I'm Isha
 
-*### 👩‍🎓 MSc.IT, UWE | Software Engineering Bootcamp, Northcoders
+### 👩‍🎓 MSc.IT, UWE | Software Engineering Bootcamp, Northcoders**
 
 ### 🔭 I'm passionate about creating user-centric experiences and building innovative solutions.
 
