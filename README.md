@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Isha
 
-### 👩‍🎓 MSc.IT, UWE | Software Engineering Bootcamp, Northcoders**
+### 👩‍💻 Frontend Developer with JavaScript, React.js, and Node.
+
+### 👩‍🎓 MSc.IT, UWE | Software Engineering Bootcamp, Northcoders.
 
 ### 🔭 I'm passionate about creating user-centric experiences and building innovative solutions.
 
