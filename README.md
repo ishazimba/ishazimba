@@ -10,4 +10,4 @@
 
 ### 📫 Feel free to reach me at [Email](mailto:isha.zimba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isha-tamang/) 
 
-### 🌐 [Portfolio Link:](https://ishatamang.com.np/)
+### 🌐 [Portfolio Link](https://ishatamang.com.np/)
