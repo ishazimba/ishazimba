@@ -8,6 +8,6 @@
 
 ### 👯 I'm open to exciting collaborations that leverage my expertise in Frontend Web Development.
 
-### 📫 Feel free to reach me at [Email](mailto:isha.zimba@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isha-tamang/) 
+### 📫 Feel free to reach me at [Email](mailto:ishazimba.tamang@gmail.com) | [LinkedIn](https://www.linkedin.com/in/isha-tamang/) 
 
 ### 🌐 [Portfolio Link](https://ishatamang.com.np/)
