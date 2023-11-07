@@ -2,7 +2,7 @@
 
 ### 👩‍💻 Frontend Developer with JavaScript, React.js, and Node.
 
-### 👩‍🎓 MSc.IT, UWE | Software Engineering Bootcamp, Northcoders.
+### 👩‍🎓 MSc.IT, University of the West of England.
 
 ### 🔭 I'm passionate about creating user-centric experiences and building innovative solutions.
 
